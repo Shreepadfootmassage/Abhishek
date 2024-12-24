@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shreepad Ayurvedic Massage Therapy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background: #28a745;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            padding: 10px;
+            background: #f4f4f4;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #28a745;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+        }
+        .therapy-section {
+            margin-bottom: 20px;
+        }
+        .therapy-section h2 {
+            color: #28a745;
+        }
+        footer {
+            background: #f4f4f4;
+            color: #333;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Shreepad Ayurvedic Massage Therapy</h1>
+        <p>South Korean Therapy | Kansyathali Ayurvedic Foot Massage</p>
+    </header>
+
+    <nav>
+        <a href="#south-korean-therapy">South Korean Therapy</a>
+        <a href="#kansyathali-therapy">Kansyathali Therapy</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="south-korean-therapy" class="therapy-section">
+        <h2>South Korean Therapy</h2>
+        <p>Therapy based on five natural elements:</p>
+        <ul>
+            <li>Accupressure</li>
+            <li>FIR (Far Infrared Rays)</li>
+            <li>Moxibustion</li>
+            <li>Chiropractic</li>
+            <li>Massage</li>
+        </ul>
+        <h3>Benefits:</h3>
+        <ul>
+            <li>Diabetes</li>
+            <li>Blood Pressure</li>
+            <li>Vascular Disease</li>
+            <li>Back Pain</li>
+            <li>Slip Disc</li>
+            <li>Joint Pain</li>
+            <li>Arthritis</li>
+            <li>Migraine</li>
+            <li>Heart Attack</li>
+            <li>Sciatica</li>
+            <li>Paralysis</li>
+            <li>Sinus</li>
+            <li>Brain Disease</li>
+            <li>Parkinson's</li>
+            <li>Fatigue</li>
+            <li>Spondylosis</li>
+        </ul>
+        <h3>Pricing:</h3>
+        <ul>
+            <li>20 Minutes Therapy: ₹200</li>
+            <li>40 Minutes Therapy: ₹350</li>
+            <li>60 Minutes Therapy: ₹500</li>
+        </ul>
+    </section>
+
+    <section id="kansyathali-therapy" class="therapy-section">
+        <h2>Kansyathali Ayurvedic Foot Massage</h2>
+        <h3>Benefits:</h3>
+        <ul>
+            <li>Relief in knee pain, back pain, and heal pain</li>
+            <li>Reduces stress, anxiety, and depression</li>
+            <li>Promotes sleep and cures insomnia</li>
+            <li>Helps to detoxify internal organs</li>
+            <li>Improves blood circulation</li>
+            <li>Improves digestion</li>
+            <li>Heals cracked feet</li>
+            <li>Balances doshas (Vata, Pitta, Kapha)</li>
+            <li>Activates metabolism</li>
+            <li>Enhances joint mobility in lower limbs</li>
+            <li>Relieves eye strain and tired eyes</li>
+            <li>Induces sound sleep</li>
+            <li>Calms the body</li>
+            <li>Restores body balance</li>
+        </ul>
+        <h3>Pricing:</h3>
+        <ul>
+            <li>Ayurvedic Oil Massage (10 min): ₹70</li>
+            <li>Ghee Massage (10 min): ₹70</li>
+        </ul>
+    </section>
+
+    <section id="contact" class="therapy-section">
+        <h2>Contact</h2>
+        <p><strong>Phone:</strong> <a href="tel:+918082642460">8082642460</a></p>
+        <p><strong>Address 1:</strong> Shop No. 1/A, Guru Nagar Society Ltd., Bldg. No. 1, 4 Bungalows Signal, J.P. Road, Andheri (W), Mumbai - 53</p>
+        <p><strong>Address 2:</strong> Shop No. G1, Kamdhenu Shopping Center, Lokhandwala Complex, Opp. Pradeep Jewellers, Andheri (W), Mumbai - 400 053</p>
+        <p><strong>Timings:</strong> 08:00 a.m. to 10:00 p.m.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Shreepad Ayurvedic Massage Therapy. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
